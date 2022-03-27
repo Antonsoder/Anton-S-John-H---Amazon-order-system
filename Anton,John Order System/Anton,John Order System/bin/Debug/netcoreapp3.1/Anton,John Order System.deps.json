@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Anton,John Order System/1.0.0": {
+        "runtime": {
+          "Anton,John Order System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Anton,John Order System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
